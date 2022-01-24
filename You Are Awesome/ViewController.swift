@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  You Are Awesome
 //
-//  Created by Qingwan Cheng on 1/22/22.
+//  Created by Qingwan(Cecelia) Cheng on 1/22/22.
 //
 
 import UIKit
