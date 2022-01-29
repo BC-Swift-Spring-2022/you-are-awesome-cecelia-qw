@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var imageView: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
+        messageLabel.text = ""
     }
 
     @IBAction func messageButtonPressed(_ sender: UIButton) {
